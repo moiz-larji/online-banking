@@ -39,6 +39,14 @@ public class CustomerController {
 	@GetMapping("/customerregister")
 	public String goToRegisterPage() {
 		return "registeruser";
+		
+		
+	}
+	@GetMapping("/contactus")
+	public String goTocontactus() {
+		return "contactus";
+		
+		
 	}
 	
 	@PostMapping("/registercustomer")
@@ -67,7 +75,7 @@ public class CustomerController {
 		}
 		
 		else {
-			mv.addObject("status", "Failed to login admin.");
+			mv.addObject("status", "Failed to login Customer.");
 			mv.setViewName("registeruser");
 		}
 		

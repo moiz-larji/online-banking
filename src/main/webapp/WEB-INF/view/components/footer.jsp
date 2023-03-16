@@ -4,7 +4,7 @@
           <div class="container-fluid p-4 pb-0">
             <section class="">
               <div class="row">
-                <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+                <div class="col-lg-6 col-md-6 mb-4 mb-md-0">
                   <h5 class="text-uppercase text-color">Online Banking System</h5>
 
                   <p>
@@ -13,109 +13,44 @@
                   </p>
                 </div>
 
-                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-                  <h5 class="text-uppercase text-color">About us</h5>
 
-                  <ul class="list-unstyled mb-0">
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 1
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
-                  </ul>
-                </div>
 
-                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
                   <h5 class="text-uppercase text-color">Contact us</h5>
 
                   <ul class="list-unstyled mb-0">
                     <li>
-                      <a href="#!" class="text-color">
-                        Link 1
+                       	<a href="/contactus" class="text-color">
+                       C-DAC
                       </a>
                     </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
-                  </ul>
+ 				</ul>
                 </div>
 
-                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-                  <h5 class="text-uppercase text-color-4">Careers</h5>
+                
 
-                  <ul class="list-unstyled mb-0">
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 1
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
                   <h5 class="text-uppercase text-color-4">Links</h5>
 
                   <ul class="list-unstyled mb-0">
                     <li>
-                      <a href="#!" class="text-color">
-                        Link 1
+                      <a href="https://finmin.nic.in/" class="text-color">
+                        MoF
                       </a>
                     </li>
                     <li>
-                      <a href="#!" class="text-color">
-                        Link 2
+                      <a href="https://finmin.nic.in/" class="text-color">
+                        RBI
                       </a>
                     </li>
                     <li>
-                      <a href="#!" class="text-color">
-                        Link 3
+                      <a href="https://www.sebi.gov.in/" class="text-color">
+                        SEBI
                       </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
+                       </li>
+                     <li>
+                      <a href="https://www.imf.org/en/Countries/ResRep/IND" class="text-color">
+                        IMF India
                       </a>
                     </li>
                   </ul>
@@ -143,7 +78,7 @@
           </div>
 
           <div class="text-center">
-            Copyright Â© 2023 My Bank. All rights reserved
+            Copyright © 2023 My Bank. All rights reserved
           </div>
         </footer>
       </div>

@@ -195,14 +195,14 @@
 									%>
 									<td class="mid-align"><a
 										href="changeAccountStatus?accountId=<%=acc.getId()%>&accountStatus=<%=Constants.AccountStatus.LOCK.value()%>"><button
-												type="button" class="btn custom-bg text-white">Lock</button>
+												type="button" class="btn custom-bg text-white">Deactivate</button>
 									</a></td>
 									<%
 									} else {
 									%>
 									<td class="mid-align"><a
 										href="changeAccountStatus?accountId=<%=acc.getId()%>&accountStatus=<%=Constants.AccountStatus.OPEN.value()%>"><button
-												type="button" class="btn custom-bg text-white">Open</button>
+												type="button" class="btn custom-bg text-white">Activate</button>
 									</a></td>
 									<%
 									}

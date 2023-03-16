@@ -52,7 +52,7 @@ public class Constants {
 	
 	public enum AccountStatus {
 		OPEN("Open"),
-		LOCK("Lock");
+		LOCK("Inactive");
 		
 		private String status;
 
@@ -67,7 +67,7 @@ public class Constants {
 
 	public enum CheckbookStatus {
 		NOT_APPLIED("Not Applied"),
-		AAPLIED("Applied"),
+		APPLIED("Applied"),
 		APPROVAL_PENDING("Approval Pending"),
 		APPROVED("Approved");
 		
